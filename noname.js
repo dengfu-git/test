@@ -7,4 +7,4 @@ function d(){
 function (){
 	dgahdfkghkh
 }
-fdfghg
+f
