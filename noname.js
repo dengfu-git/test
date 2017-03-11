@@ -2,5 +2,8 @@
  * New node file
  */
 function d(){
-	ddsffs
+	ddsffsgfsgfgdfgdfg
+}
+function (){
+	dgahdfkghkh
 }
